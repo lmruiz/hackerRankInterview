@@ -1,4 +1,4 @@
-package com.innovarit.hackerrank.interview.datastructures;
+package com.innovarit.hackerrank.interview.datastructures.arrays;
 
 import java.io.*;
 import java.util.*;
